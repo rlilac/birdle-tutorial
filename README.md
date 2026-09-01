@@ -1,3 +1,3 @@
 # birdle
 
-A new Flutter project.
+following the Flutter tutorial to build a birdle app (similar to wordle)
